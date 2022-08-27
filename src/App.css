@@ -1,0 +1,39 @@
+.contenedorCitas{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.contenedor{
+  background-color: white;
+    padding: 5vh;
+    border-radius: 2rem
+}
+
+.comillas{
+  display: flex;
+  height: 10vh;
+  width: 80vw;
+  justify-content: center;
+}
+
+.botonautor{
+  display: flex;
+  column-gap: .8rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.claseBoton{
+  background: white;
+  border-radius: 0.9rem;
+  padding: 0.9rem;
+  border: solid;
+  height: 1rem;
+}
+
+.colorNombre{
+  color: white;
+  padding-left: 27rem;
+}
